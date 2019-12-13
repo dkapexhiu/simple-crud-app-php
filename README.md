@@ -1,1 +1,2 @@
-# simple-crud-app-php
+# crud-php
+simple crud operations with pagination &amp; images using php &amp; mysql
